@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.cobra.king": "https://github.com/Snake-EyE-12/Cobra.git",
     "com.unity.2d.animation": "12.0.2",
     "com.unity.2d.aseprite": "2.0.1",
     "com.unity.2d.psdimporter": "11.0.1",

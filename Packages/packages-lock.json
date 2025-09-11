@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.cobra.king": {
+      "version": "https://github.com/Snake-EyE-12/Cobra.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "800caedc50981722bb7890aa3a1a7065a6578f61"
+    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,
